@@ -19,7 +19,7 @@
 				<div class="app-text">
 					<h1>Jaiwanti Sivakumar <br>Fashion stylist
 					</h1>
-					<p>Welcome</p><!-- bio-->
+					<p>Welcome everyone</p><!-- bio-->
 				</div>
 			</div>
 			<div class="picture"><!-- picture-->
