@@ -39,7 +39,7 @@
 .app-text h1{
 	font-size: 30px;
 	width:640px;
-	position:relative;
+	position:absolute;
 }
 .app-text p{
 	font-size: 15px;
