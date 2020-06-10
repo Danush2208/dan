@@ -37,10 +37,9 @@
 }
 
 .app-text h1{
-	font-size: 43px;
+	font-size: 30px;
 	width:640px;
 	position:relative;
-	margin-left:5px;
 }
 .app-text p{
 	font-size: 15px;
