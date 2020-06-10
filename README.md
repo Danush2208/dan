@@ -19,18 +19,24 @@
 				<div class="app-text">
 					<h1>Jaiwanti Sivakumar <br>Fashion stylist
 					</h1>
-					<p>Welcome everyone</p><!-- bio-->
+					<p>Welcome to my fashion blog</p><!-- bio-->
 				</div>
 			</div>
 			<div class="picture"><!-- picture-->
 					<img src="3.jpg" >
 			</div>
+				</div>
+	<div class="cc">
+	<p>			@ jaiwanti.sivakumar</p>
+
+</div>
+
 			<!--
 			<div class="quick-links">
 				<ul>
 					<li><i class="fa fa-play"></i><p>share to</p></li>
 				</ul>
 			</div>-->
-	</div>
+
 </body>
 </html>
