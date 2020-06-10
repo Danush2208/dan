@@ -26,7 +26,7 @@
 .banner{
 	width:80%;
 	height:70%;
-	top:50%;
+	top:30%;
 	left :130px;
 	position:absolute;
 	color:black;
@@ -57,4 +57,3 @@
 	width:100%;
 	margin-top: -20px;
 }
-
